@@ -1,0 +1,21 @@
+{
+  "name": "MamilosBotJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "gif-search": "^2.1.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.4",
+    "ms": "^2.1.2",
+    "request": "^2.88.0",
+    "steamid": "^1.1.3"
+  }
+}
